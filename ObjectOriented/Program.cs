@@ -14,7 +14,7 @@ namespace ObjectOriented
 
             ChildClass childClass = new ChildClass();
 
-            ChildClass childClass1 = new ParentClass();
+            //ChildClass childClass1 = new ParentClass();
         }
 
 
