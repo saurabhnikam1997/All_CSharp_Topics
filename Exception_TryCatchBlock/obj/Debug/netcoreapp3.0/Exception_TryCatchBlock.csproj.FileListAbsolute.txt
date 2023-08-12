@@ -1,0 +1,14 @@
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\bin\Debug\netcoreapp3.0\Exception_TryCatchBlock.exe
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\bin\Debug\netcoreapp3.0\Exception_TryCatchBlock.deps.json
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\bin\Debug\netcoreapp3.0\Exception_TryCatchBlock.runtimeconfig.json
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\bin\Debug\netcoreapp3.0\Exception_TryCatchBlock.runtimeconfig.dev.json
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\bin\Debug\netcoreapp3.0\Exception_TryCatchBlock.dll
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\bin\Debug\netcoreapp3.0\Exception_TryCatchBlock.pdb
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.AssemblyInfoInputs.cache
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.AssemblyInfo.cs
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.csproj.CoreCompileInputs.cache
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.dll
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.pdb
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.genruntimeconfig.cache
+C:\Working\IPreparation\C#\All_CSharp_Topics\Exception_TryCatchBlock\obj\Debug\netcoreapp3.0\Exception_TryCatchBlock.csproj.AssemblyReference.cache

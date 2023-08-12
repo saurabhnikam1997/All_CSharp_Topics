@@ -1,0 +1,14 @@
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\bin\Debug\netcoreapp3.0\SingletonDP.exe
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\bin\Debug\netcoreapp3.0\SingletonDP.deps.json
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\bin\Debug\netcoreapp3.0\SingletonDP.runtimeconfig.json
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\bin\Debug\netcoreapp3.0\SingletonDP.runtimeconfig.dev.json
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\bin\Debug\netcoreapp3.0\SingletonDP.dll
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\bin\Debug\netcoreapp3.0\SingletonDP.pdb
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.csproj.AssemblyReference.cache
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.AssemblyInfoInputs.cache
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.AssemblyInfo.cs
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.csproj.CoreCompileInputs.cache
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.dll
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.pdb
+C:\Working\IPreparation\C#\All_CSharp_Topics\SingletonDP\obj\Debug\netcoreapp3.0\SingletonDP.genruntimeconfig.cache
