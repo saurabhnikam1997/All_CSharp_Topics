@@ -5,9 +5,14 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
 	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	  <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+	  <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\Bin\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <OutputPath>..\Bin\</OutputPath>
   </PropertyGroup>
 
